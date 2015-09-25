@@ -42,6 +42,17 @@ Clone the repository
 ```shell
 git clone git@github.com:clientvine/clientvine-static.git
 ```
+
+Rename the folder to your site name
+```shell
+mv clientvine-static newname
+```
+
+Change into the directory
+```shell
+cd newname
+```
+
 Install the version of ruby specified in the ruby-version file
 ```shell
 rbenv install `echo .ruby-version`
