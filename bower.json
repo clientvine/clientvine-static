@@ -1,8 +1,8 @@
 {
-  "name": "tmgvets.com",
-  "version": "0.0.0",
+  "name": "clientvine-static",
+  "version": "0.0.1",
   "authors": [
-    "bdtomlin <bt@bryantomlin.com>"
+    "Bryan T <bryan@clientvine.com>"
   ],
   "license": "MIT",
   "ignore": [
