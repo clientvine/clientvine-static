@@ -55,7 +55,7 @@ cd newname
 
 Install the version of ruby specified in the ruby-version file
 ```shell
-rbenv install `echo .ruby-version`
+rbenv install `cat .ruby-version`
 ```
 
 Get the required libraries...
