@@ -60,9 +60,7 @@ rbenv install `cat .ruby-version`
 
 Get the required libraries...
 ```shell
-gem install bundler
-bundle
-bower install
+gem install bundler && bundle && bower install
 ```
 
 ## Developing
