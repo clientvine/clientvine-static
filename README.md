@@ -59,7 +59,7 @@ Start a development server:
 ```shell
 middleman server
 ```
-Open http://localhost:4567
+Open [http://localhost:4567](http://localhost:4567)
 
 ## Deploying
 Build the site
