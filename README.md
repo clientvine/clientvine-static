@@ -27,11 +27,6 @@ If you're using zsh...
 echo 'eval "$(rbenv init -)"' >> ~/.zshrc
 ```
 
-Install the version of ruby specified in the ruby-version file
-```shell
-rbenv install `echo .ruby-version`
-```
-
 ### Nodejs
 ```shell
 brew install node
@@ -47,6 +42,11 @@ Clone the repository
 ```shell
 git clone git@github.com:clientvine/clientvine-static.git
 ```
+Install the version of ruby specified in the ruby-version file
+```shell
+rbenv install `echo .ruby-version`
+```
+
 Get the required libraries...
 ```shell
 gem install bundler
