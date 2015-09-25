@@ -45,7 +45,7 @@ npm install -g bower
 ## Setting up each new site
 Clone the repository
 ```shell
-git clone 
+git clone git@github.com:clientvine/clientvine-static.git
 ```
 Get the required libraries...
 ```shell
