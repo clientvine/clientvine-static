@@ -86,7 +86,9 @@ gsutil config
 configuration and instructions stored in ~/.boto
 [reference google cloud docs](https://cloud.google.com/storage/docs/gsutil/commands/rsync)
 
+Change the bucket name in deploy...
+Then, whenever you want to deploy
 ```shell
-gsutil -m rsync -d -r ./build gs://www.bucketname.com
+./deploy
 ```
 
